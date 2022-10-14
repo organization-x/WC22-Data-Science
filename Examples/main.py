@@ -2,8 +2,8 @@ import pandas as pd
 import numpy as np
 import plotly.express as px
 import warnings 
-warnings.filterwarnings("ignore") 
 import streamlit as st
+warnings.filterwarnings("ignore") 
 
 st.title('Data Science Salary EDA')
 st.header('Target')
