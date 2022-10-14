@@ -2,11 +2,9 @@
 
 Go to the coding center or cocalc and create a new project. Then, create a linux terminal file in cocalc where you can run scripts and commands.
 
-Clone the repo as so:
-`TODO CHANGE`
+Clone the repo as so: `git clone https://github.com/organization-x/WC22-Data-Science.git`
 
-cd into the repo folder like so:
-`TODO CHANGE`
+cd into the repo folder like so: `cd WC22-Data-Science`
 
 Once you do that there should be two bash scripts that you can call. The first one downloads conda and creates the conda virtual environment. To run it, execute the following command:
 `source create_conda_env.sh`
