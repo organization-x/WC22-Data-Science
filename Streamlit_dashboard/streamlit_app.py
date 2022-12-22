@@ -4,7 +4,14 @@ import plotly.express as px
 import numpy as np
 import streamlit as st
 
-#TODO: reading in the dataset
+'''
+Accessing your dashboard: after running "streamlit run streamlit_app.py", you'll want to access your website!
+If your URL looks like this: https://coding.ai-camp.dev/projects/ad938e8d-2c1b-480b-b393-94673d3d4628/files/WC22-Data-Science/.....
+Your dashboard will be at: https://coding.ai-camp.dev/ad938e8d-2c1b-480b-b393-94673d3d4628/port/8501
+Notice how there is no more "/projects/" and no more "files/...". Make those changes to get your site running!
+
+Instructors: if you are having issues, go to /examples/ and copy the contents of the config.toml file to a new file in the location "~/.streamlit/config.toml"
+'''
 
 
 #Some basic commands in streamlit -- you can find an amazing cheat sheet here: https://docs.streamlit.io/library/cheatsheet
