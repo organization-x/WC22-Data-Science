@@ -6,11 +6,11 @@ import streamlit as st
 
 '''
 Accessing your dashboard: after running "streamlit run streamlit_app.py", you'll want to access your website!
+
 If your URL looks like this: https://coding.ai-camp.dev/projects/ad938e8d-2c1b-480b-b393-94673d3d4628/files/WC22-Data-Science/.....
 Your dashboard will be at: https://coding.ai-camp.dev/ad938e8d-2c1b-480b-b393-94673d3d4628/port/8501
-Notice how there is no more "/projects/" and no more "files/...". Make those changes to get your site running!
 
-Instructors: if you are having issues, go to /examples/ and copy the contents of the config.toml file to a new file in the location "~/.streamlit/config.toml"
+Instructors: if you are having issues, complete the TODO's commented in the config file located in your home folder. PATH: "~/.streamlit/config.toml"
 '''
 
 
